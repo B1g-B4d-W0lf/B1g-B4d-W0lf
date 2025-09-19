@@ -12,5 +12,5 @@
 </a>
 </p>          
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/B1gB4dW0lf.png" alt="Your Image Badge" />
+
 </p>
